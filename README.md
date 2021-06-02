@@ -20,7 +20,7 @@ Step2 - Install the dependencies:
 npm install
 ```
 
-Step4 - Create a config.env file
+Step4 - Create a .env file
 
 Step5-
 Now you can run the app on localhost:3000 using:
@@ -29,7 +29,7 @@ Now you can run the app on localhost:3000 using:
 $ npm start
 ```
 
-You can also checkout the ![Javascript Mastery](https://www.youtube.com/watch?v=Bv9Js3QLOLY) tutorial.
+You can also checkout the [Javascript Mastery](https://www.youtube.com/watch?v=Bv9Js3QLOLY) tutorial.
 
 ### Bonus - E-mail notifications
 If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
